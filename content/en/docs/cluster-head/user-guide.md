@@ -5,8 +5,8 @@
 
 1. [ Table of Contents](#tableofcontents)
 1. [ Installation](#installation)
-   1. [ Unpacking Platina Cluster Head](#unpackingplatinaedgedevice)
-   1. [ Rack-mounting Platina Cluster Head](#rackmountingplatinaedgedevice)
+   1. [ Unpacking Platina Cluster Head](#unpackingplatinaclusterhead)
+   1. [ Rack-mounting Platina Cluster Head](#rackmountingplatinaclusterhead)
 1. [ Administration](#administration)
    1. [ Quick Start Guide](#quickstartguide)
    1. [ General Architecture](#generalarchitecture)
