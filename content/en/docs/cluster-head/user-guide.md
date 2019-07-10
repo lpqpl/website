@@ -55,6 +55,8 @@
 
 # Installation
 
+<a name="unpackingplatinaclusterhead"/>
+
 ## Unpacking Platina Cluster Head
 
 The shipped package includes the following items:
@@ -65,6 +67,8 @@ The shipped package includes the following items:
  * 1 footpad kit
 
 ![](images/01-ll-optics.png)
+
+<a name="rackmountingplatinaclusterhead"/>
 
 ## Rack-mounting Platina Cluster Head
 
